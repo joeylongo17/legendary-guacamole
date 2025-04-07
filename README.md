@@ -1,2 +1,2 @@
 # legendary-guacamole
-final LAB-INST
+final Scientific Computing I
